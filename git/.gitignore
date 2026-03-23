@@ -11,9 +11,14 @@ frontend/.env
 frontend/.next/
 backend/dist/
 
+# Git
+frontend/.git
+backend/.git
+
 # Docker
 *.log
 
-# OS
+# IDE / OS
+.vscode/
 .DS_Store
 Thumbs.db
